@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		890F528D2D8B60DE00BDB71C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 890F528C2D8B60D700BDB71C /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		895FD0B02D8770B2002DD7B9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		890F528C2D8B60D700BDB71C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		895FD0992D8770B1002DD7B9 /* IOS101-Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS101-Prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		895FD0AF2D8770B2002DD7B9 /* IOS101-PreworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS101-PreworkTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		895FD0B92D8770B2002DD7B9 /* IOS101-PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS101-PreworkUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +93,7 @@
 		895FD0902D8770B1002DD7B9 = {
 			isa = PBXGroup;
 			children = (
+				890F528C2D8B60D700BDB71C /* README.md */,
 				895FD09B2D8770B1002DD7B9 /* IOS101-Prework */,
 				895FD0B22D8770B2002DD7B9 /* IOS101-PreworkTests */,
 				895FD0BC2D8770B2002DD7B9 /* IOS101-PreworkUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				890F528D2D8B60DE00BDB71C /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
